@@ -1,4 +1,4 @@
-<h1>Mohammad Sayifullah</h1>
+<h1>Mohammad Sayifullah 4523210066</h1>
 <h2>Laporan Intstalasi Git</h2>
 <h3>1. Download Git dari link berikut : https://git-scm.com/download/win</h3>
 <img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/abcb1b2e-4e60-40a0-99fb-5ce7fee7b690" />
@@ -45,6 +45,7 @@ git remote add origin https://github.com/NamaUserKamu/proyek-web-pertama.git
 git branch -M main
 git push -u origin main
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f7b40d0-18ce-4dfb-b0a0-afc767708b96" />
+
 
 
 
